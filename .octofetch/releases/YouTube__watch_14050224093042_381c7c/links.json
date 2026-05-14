@@ -1,0 +1,19 @@
+{
+  "destination": "release",
+  "tag": "co-releases-v1-3788",
+  "folder": "YouTube__watch_14050224093042_381c7c",
+  "base_name": "24_Things_TO_DO_After_Installing_UBUNTU_24_04_LTS_(NOBLE_NUMBAT)_vLm2EHIaxOo_1080p.mp4",
+  "is_split": false,
+  "part_count": 1,
+  "release_url": "https://github.com/davarzanihack-glitch/Cloud-Downloads2/releases/tag/co-releases-v1-3788",
+  "files": [
+    {
+      "name": "24_Things_TO_DO_After_Installing_UBUNTU_24_04_LTS_.NOBLE_NUMBAT._vLm2EHIaxOo_1080p.mp4",
+      "url": "https://github.com/davarzanihack-glitch/Cloud-Downloads2/releases/download/co-releases-v1-3788/24_Things_TO_DO_After_Installing_UBUNTU_24_04_LTS_.NOBLE_NUMBAT._vLm2EHIaxOo_1080p.mp4",
+      "api_url": "https://api.github.com/repos/davarzanihack-glitch/Cloud-Downloads2/releases/assets/420044871",
+      "id": 420044871,
+      "size": 108252435,
+      "download_count": 0
+    }
+  ]
+}
